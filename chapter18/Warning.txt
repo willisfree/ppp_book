@@ -1,0 +1,1 @@
+Exercises 1 to 4 in some cases contain error while memory allocation for array (memory allocated for one element, but use like for array)

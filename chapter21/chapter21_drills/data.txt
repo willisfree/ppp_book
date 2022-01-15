@@ -1,0 +1,10 @@
+Andy	1	4.2
+Nad	7	7.1
+Lin	3	8.1
+Rony	4	1.1
+Pan	5	8.2
+William	6	0.4
+Djack	2	1.7
+Abraham	8	4.2
+Howk	9	2.6
+Sammy	10	9.7
